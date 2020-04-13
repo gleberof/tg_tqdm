@@ -7,7 +7,7 @@ Now the project can not be found in PyPI
 But you can install from git:
 
 ```
-pip install git+https://github.com/ermakovpetr/tg_tqdm
+pip install git+https://github.com/gleberof/tg_tqdm
 ```
 
 # Usage
